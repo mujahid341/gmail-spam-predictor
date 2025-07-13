@@ -25,4 +25,4 @@ if st.button("Predict"):
 
         # Output
         st.success(f"Prediction: {prediction_label}")
-        st.markdown(f"**Confidence {confidence}**")
+        st.markdown(f"**Confidence : {confidence}**")
